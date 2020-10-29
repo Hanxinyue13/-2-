@@ -5,6 +5,7 @@ public class People {
 	String name;
 	String sex;
 	String course;
+	String tk;
 }
 class Teacher extends People{
 	Teacher(){
@@ -54,7 +55,7 @@ class Student extends People{
 		return tk;
 	}
 	void show(){
-		System.out.println("学生号："+id+"  学生姓名："+name+"  性别:"+sex+"  选课："+course);
+		System.out.println("学生号："+id+"  学生姓名："+name+"  性别:"+sex+"  选课："+course+"    退课信息："+tk);
 	}
 }
 
