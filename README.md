@@ -56,7 +56,7 @@ class Student extends People{
 ## 实验结果  
 第一次建立了五个类文档，分别为People、Teacher、Student、Xx、Ke，在Xx类中获取赋值出现问题，经重启软件后进行了修复，程序可正常运行。    
 第二次为了简洁清晰，尝试将Teacher和Student两个子类放入父类People的文档中，Ke和Xx文档不变，程序可正常运行。   
-
+![](https://github.com/Hanxinyue13/XSXKXT/blob/main/%E5%AD%A6%E7%94%9F%E9%80%89%E8%AF%BE%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%9C.PNG)
 ## 实验感想  
 本次实验对父类与子类的继承关系进行了复习和实际运用，并对显示结果进行了美化，课后将Java和C语言进行了部分对比，减少了对Java的疑难情绪。    
 学生选课系统
